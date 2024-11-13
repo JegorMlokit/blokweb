@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Screenshot 2024-11-13 at 13.06.25.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  WWW.Vogue.NL
+  <img src="readme-images/Screenshot 2024-11-13 at 13.09.09.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
