@@ -1,31 +1,88 @@
-/**************/
-/* CSS REMEDY */
-/**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+
+body {
+    font-family: '  Montserrat', 'Arial Narrow', Arial, sans-serif;
+   align-items: center;
+   
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+
+footer{
+  background-color: black;
+}
+
+section {
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+ 
 }
 
 
 
 
+p {
+    text-align: center;
+    
+  }
 
+  h1 {
+    color: white;
+  }
 
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+h2 {
+    text-align: center;
 }
 
 
 
 
+.menu {
+  color: white;
+  border: 0cm;
+  background-color: black;
+}
 
-/****************/
-/* JOUW STYLING */
-/****************/
+.verstuur {
+  background-color: #3b6edc;
+  color: white;
+  border: 0cm;
+  padding: 15px 40px;
+  border-radius: 6px;
+  
+}
 
-/* jouw code */
+a{
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
 
+.link {
+  display: block; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  color: white;
+}
+
+
+
+.ervaar{
+  background-color: black;
+color: white;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 5px 0;
+  width: 90%;
+  background-color: #ececec;
+  border: none;
+  border-radius: 6px;
+}
