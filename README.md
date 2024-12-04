@@ -102,7 +102,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik was niet aanwezig bij het eerste voortgangsgesprek. Dus ik had ook geen feedback gekregen.
 
 
   ### Agenda voor meeting
@@ -135,7 +135,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had niet zo veel. maar ik hoopte dat ik nog wel wat feedback zou kunnen ontvangen. en dat de vragen die ik had beantwoord kunnen worden.
 
 
   ### Agenda voor meeting
@@ -151,10 +151,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Ik moet een main toevoegen in mijn code, want die had ik nog niet.
+  - Werken aan de readme, want hij was nog leeg.
+  - Ik moet wel nog veel doen.
+  - een carousel toevoegen.
+  - een video plaatsen op me page.
+  - Menu toevoegen met behulp van detail summary.
+  - links stylen met # ipv classes
+
 
 </details>
 
