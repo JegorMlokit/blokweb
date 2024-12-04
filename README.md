@@ -36,14 +36,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.tesla.com/nl_nl/we-robot
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  WWW.Vogue.NL 
+  WWW.Tesla.nl/We-Robot
   <img src="readme-images/Screenshot 2024-11-13 at 13.06.25.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  WWW.Vogue.NL
+  WWW.Tesla.nl/Megapack
   <img src="readme-images/Screenshot 2024-11-13 at 13.09.09.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
