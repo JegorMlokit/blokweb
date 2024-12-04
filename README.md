@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   WWW.Tesla.nl/We-Robot
-  <img src="readme-images/Screenshot 2024-11-13 at 13.06.25.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/readme-images/IMG_9972.JPG" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   WWW.Tesla.nl/Megapack
