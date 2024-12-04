@@ -1,17 +1,15 @@
-
 body {
-    font-family: '  Montserrat', 'Arial Narrow', Arial, sans-serif;
-   align-items: center;
-   
+  font-family: '', 'Arial Narrow', Arial, sans-serif;
+  align-items: center;
 }
 
-header{
+header {
   display: flex;
   justify-content: space-between;
   background-color: black;
 }
 
-footer{
+footer {
   background-color: black;
 }
 
@@ -19,58 +17,52 @@ section {
   text-align: center;
 }
 
-img{
+img {
   max-width: 100%;
- 
 }
 
 p {
-    text-align: center;
-    
+  text-align: center;
 }
 
-  h1 {
-    color: white;
-  }
+h1 {
+  color: white;
+}
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
-
-
-
 
 .menu {
   color: white;
-  border: 0cm;
+  border: 0;
   background-color: black;
 }
 
 .verstuur {
   background-color: #3b6edc;
   color: white;
-  border: 0cm;
+  border: 0;
   padding: 15px 40px;
   border-radius: 6px;
-  
 }
 
-a{
+a {
   color: black;
   text-decoration: none;
   text-align: center;
 }
 
 .link {
-  display: block; 
-  margin-bottom: 10px; 
-  text-align: center; 
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
   color: white;
 }
 
-.ervaar{
+.ervaar {
   background-color: black;
-color: white;
+  color: white;
 }
 
 input[type="text"] {
@@ -80,4 +72,109 @@ input[type="text"] {
   background-color: #ececec;
   border: none;
   border-radius: 6px;
+}
+
+.carousel {
+  position: relative;
+  width: 100%; /* Volledige breedte van de pagina */
+  max-width: 100%; /* Zorgt ervoor dat het niet beperkt wordt */
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.carousel__track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.item {
+  min-width: 100%; /* Elk item neemt 100% van de breedte in */
+  box-sizing: border-box;
+  padding: 0; /* Verwijder eventuele padding rond de afbeelding */
+}
+
+.item img {
+  width: 100%; /* Laat afbeelding de volledige breedte nemen */
+  height: auto; /* Zorg dat de hoogte proportioneel blijft */
+  display: block;
+}
+
+.item__content {
+  text-align: center;
+  padding: 10px;
+}
+
+.carousel__button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: white(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.carousel__button--left {
+  left: 10px;
+}
+
+.carousel__button--right {
+  right: 10px;
+}
+
+.carousel__button:hover {
+  background-color: white(0, 0, 0, 0.7);
+}
+
+details {
+  font: 16px "montserrat";
+  max-width: 100%; /* Zorgt ervoor dat details niet breder zijn dan het scherm */
+  margin: 0 auto; /* Centrerende marges */
+  width: auto; /* Laat de breedte zich aanpassen aan het scherm */
+  color: #ececec;
+}
+
+details > summary {
+  padding: 10px; /* Grotere klikbare ruimte voor touchscreens */
+  max-width: 100%; /* Responsieve breedte */
+  background-color: none;
+  border: 1px solid none; /* Subtielere styling voor mobiele apparaten */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Zachtere schaduw */
+  cursor: pointer;
+  font-size: 1rem; /* Schaalbare tekstgrootte */
+}
+
+details > p {
+  background-color: white;
+  padding: 10px; /* Meer padding voor betere leesbaarheid op kleine schermen */
+  margin: 0;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Zachtere schaduw */
+  font-size: 0.95rem; /* Kleinere tekst voor compactheid */
+  color: black;
+}
+
+details[open] > summary {
+  background-color: #f0f0f0; /* Verandert achtergrondkleur bij openen */
+}
+
+@media screen and (max-width: 768px) {
+  /* Specifieke aanpassingen voor mobiele apparaten */
+  details {
+    margin: 10px; /* Zorgt voor meer ruimte rond elk details-element */
+    font-size: 14px; /* Verkleint de tekst een beetje op kleinere schermen */
+  }
+
+  details > summary {
+    padding: 8px; /* Vermindert de padding om ruimte te besparen */
+    font-size: 1rem; /* Houdt de tekst leesbaar */
+  }
+
+  details > p {
+    font-size: 0.9rem; /* Compactere tekst in uitklapbare inhoud */
+    padding: 8px; /* Minder padding om ruimte te besparen */
+  }
 }
