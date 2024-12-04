@@ -247,7 +247,7 @@ Ik was niet aanwezig bij het eerste voortgangsgesprek. Dus ik had ook geen feedb
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
   2. bron 2
   3. ...
 
