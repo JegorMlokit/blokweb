@@ -53,6 +53,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
+
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+
+
+
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
