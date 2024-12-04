@@ -70,7 +70,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <img src="readme-images/Screenshot 2024-12-04 at 08.55.48.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/Screenshot 2024-12-04 at 08.55.48.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Screenshot 2024-12-04 at 08.56.24.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Screenshot 2024-12-04 at 08.56.24.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
