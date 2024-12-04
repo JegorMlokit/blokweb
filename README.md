@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   WWW.Tesla.nl/Megapack
-  <img src="readme-images/Screenshot 2024-11-13 at 13.09.09.png" width="375px" alt="omschrijving van de pagina">
+  <img src=readme-images/IMG_9974.JPG width="375px" alt="omschrijving van de pagina">
  
 </details>
 
