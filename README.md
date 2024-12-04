@@ -67,7 +67,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: Het eerste wat mij opviel toen ik de links afging is dat er al stond of ik ze al bezocht had of niet, dat was erg fijn. Ook was het fijn dat het aangaf of ik in de main was of in de footer, alleen was de main heel klein en stond er alleen dat er 'items' in de main stonden en niet wat de items waren, dat vond ik niet erg goed. Wel gaf het mooi aan als je bij een heading was aangekomen en dan ging het ook voorlezen wat er in de heading stond. 
+  En wat mij het meest opviel is dat er een link was met 'skip to main content' dat was er fijn, want dan hoef je niet alles aanhoren en meteen zoeken wat je nodig hebt.
 
 </details>
 
