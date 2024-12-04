@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,42 +7,75 @@
     <title>Document</title>
 </head>
 <body>
-
-   
     <header> 
         <h1>TESLA</h1>
         <nav>
-            <button class="menu">Menu</button>
+            <details>
+                <summary>menu</summary>
+                <p>Requires a computer running an operating system.</p>
+            </details>
         </nav>
     </header>
 
- 
     <section class="robot">
-        <img src="images/We-Robot-Hero-Desktop.jpeg" alt="">
+        <img src="images/We-Robot-Hero-Mobile-home.avif" alt="">
     </section>
 
- 
     <section class="toekomst">
         <h2>De toekomst is autonomie</h2>
-        <p>Om duurzame toekomst te realiseren, moeten we vervoer voor iedereen toegangkelijk maken. Wij doen dit door het rijden efficienter, betaalbaarder en veiliger te maken. Met autonomie is deze toekomst vandaag al mogelijk.</p>
-        <img src="images/Screenshot 2024-11-26 at 13.02.35.png" alt="">
-        
-
+        <p>
+            Om duurzame toekomst te realiseren, moeten we vervoer voor iedereen toegangkelijk maken. 
+            Wij doen dit door het rijden efficienter, betaalbaarder en veiliger te maken. 
+            Met autonomie is deze toekomst vandaag al mogelijk.
+        </p>
+        <video width="100%" height="auto" controls>
+            <source src="images/videoplayback.mp4" type="video/mp4">
+        </video>
     </section>
 
- 
     <section class="iedereen">
         <h2>Autonomie is voor iedereen</h2>
         <p>De toekomst van autonomie en kunstmatige intelligentie wordt concreet met de ontwikkeling van een vloot van voertuigen en robots.</p>
-        <img src="images/Screenshot 2024-11-26 at 13.06.02.png" alt="">
+        
+        <div id="demo" class="carousel">
+            <div class="carousel__track">
+                <div class="item">
+                    <img src="images/We-Robot-Carousel-Slide-1-Robotaxi-Mobile.avif" alt="Slide 1">
+                    <div class="item__content">
+                        <span class="item__content-title">Robotaxi</span>
+                        <span class="item__content-subtitle">
+                            Roep uw auto op en gebruik de auto zo lang als u hem nodig hebt voor uw boodschappen, woon-werkverkeer en andere ritten.
+                        </span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="images/We-Robot-Carousel-Slide-2-Robovan-Mobile.avif" alt="Slide 2">
+                    <div class="item__content">
+                        <span class="item__content-title">Robovan</span>
+                        <span class="item__content-subtitle">
+                            Autonoom vervoer van groepen mensen of goederen; van openbaar vervoer tot bouwbedrijven en horeca.
+                        </span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="images/We-Robot-Carousel-Slide-3-TeslaBot-Mobile.avif" alt="Slide 3">
+                    <div class="item__content">
+                        <span class="item__content-title">Tesla Bot</span>
+                        <span class="item__content-subtitle">
+                            Helpt u bij het uitvoeren van dagelijkse taken zoals het huishouden of boodschappen doen.
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel__button carousel__button--left">&lt;</button>
+            <button class="carousel__button carousel__button--right">&gt;</button>
+        </div>
     </section>
 
-    
     <section class="ontdek">
         <h2>Ontdek autonomie</h2>
         <p>Blijf op de hoogte van Full Self-Driving (supervised)</p>
 
-      
         <form>
             <label for="voornaam">Voornaam:</label><br>
             <input type="text" id="voornaam" name="voornaam"><br>
@@ -60,9 +93,10 @@
             <input type="text" id="post" name="post"><br>
         </form>
 
-
-        <p>Ik ga ermee akkoord dat Tesla contact met mij opneemt voor meer informatie over aanbiedingen van Tesla-producten. Ik kan me op ieder moment afmelden in de Tesla-app of via uitschrijven.</p>
-
+        <p>
+            Ik ga ermee akkoord dat Tesla contact met mij opneemt voor meer informatie over aanbiedingen van Tesla-producten. 
+            Ik kan me op ieder moment afmelden in de Tesla-app of via uitschrijven.
+        </p>
         <button class="verstuur">Versturen</button>
     </section>
 
@@ -73,15 +107,12 @@
         <button class="verstuur">Ervaar Tesla</button>
     </section>
 
+    <script src="tsla.js"></script>
   
     <footer>
-        <a href="" class="link">Tesla @ 2024</a>
-
-        <a href="" class="link">Privacy & Wettelijk</a>
-
-        <a href="" class="link">Nieuws</a>
+        <a href="#" class="link">Tesla @ 2024</a>
+        <a href="#" class="link">Privacy & Wettelijk</a>
+        <a href="#" class="link">Nieuws</a>
     </footer>
-
 </body>
 </html>
-
