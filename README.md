@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
 <img src= readme-images/IMG_9979.jpeg width="375px" alt="fotos toegangkelijksheidtest">
 <img src=  readme-images/IMG_9980.jpeg width="375px" alt="fotos toegangkelijksheidtest">
-<img src=  readme-images/IMG_99812.jpeg width="375px" alt="fotos toegangkelijksheidtest">
+<img src=  readme-images/IMG_9981.jpeg width="375px" alt="fotos toegangkelijksheidtest">
 <img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
 <img src=  readme-images/IMG_9976.jpeg width="375px" alt="fotos toegangkelijksheidtest">
 <img src=  readme-images/IMG_99792.jpeg width="375px" alt="fotos toegangkelijksheidtest">
