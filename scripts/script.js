@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const nextButton = document.querySelector('.carousel__button--right');
     const prevButton = document.querySelector('.carousel__button--left');
     const paginationButtons = document.querySelectorAll('.carousel__pagination-button');
-  
+   
     let currentIndex = 0;
   
     const updateSlide = (index) => {
