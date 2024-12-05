@@ -248,7 +248,8 @@ Ik was niet aanwezig bij het eerste voortgangsgesprek. Dus ik had ook geen feedb
   Nb. Vermeld de bronnen ook in je code.
 
   1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
-  2. bron 2
-  3. ...
+  2. https://codepen.io/ElenaDi07/pen/MeQmBZ
+  3. "Geassisteerd door een interactieve AI-chat tijdens het ontwikkelen van een HTML-carousel en videoweergave, op 4 december."
+     
 
 </details>
