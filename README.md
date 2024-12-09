@@ -186,26 +186,50 @@ Ik was niet aanwezig bij het eerste voortgangsgesprek. Dus ik had ook geen feedb
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik liep best ver achter met de opdracht, ik had ook een paar vragen waar ik graag antwoord op wilde dus ik had die voorbereid.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Jegor: Video embed
+Twitter embedded
+Anders korte versie
+
+With van carousel 90%
+Margin geven aan sections bottom
+
+Kijken voor hover
+Carousel hover
+
+Text align start op form en de rest center.
+
+Minder gebruik maken van classes
+Footer css voor links
+
+GitHub opruimen 
+Map maken en daar alle images in doen
+
+En maken tweede pagina 
+       
+  | Bas: AH logo was niet zichbaar op de website, ook vragen over de zoekbalk, omdat de zoekknop en het input field in elkaar zaten.              
+  
+  | Maya: Vragen hamburger menu 3 streepjes moet een kruisje worden. 
+En hoe ze de tekst in de carousel plaatjes kan krijgen. Een golf bij haar footer moet bewegen       
+  
+  | Jasmine: Pijltjes bij de carousel, of dat erbij moet want op de echte site staan ze er wel. Het bol.com logo onderaan haar site werkt niet.        
+
+        
+         
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik moet nog heel veel doen.
+  - 
+  - 
+  - 
 
 </details>
 
